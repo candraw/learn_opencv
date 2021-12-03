@@ -1,6 +1,7 @@
 # belajar_opencv
 dokumentasi belajar opencv
 
-**learnopencv1-process_display_save-image**
+**1. Learnopencv1-process_display_save-image**
 Hasil
-![Screenshot (211)](https://user-images.githubusercontent.com/49423419/144463019-8d7addc5-4a98-45a1-92b0-a4f64c21926b.png)
+**Gambar yang ditampilkan** 
+![Screenshot (211)](https://user-images.githubusercontent.com/49423419/144561785-649b133e-85a7-4a80-9019-c871eb140950.png)
